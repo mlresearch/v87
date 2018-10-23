@@ -1,0 +1,69 @@
+---
+booktitle: Proceedings of The 2nd Conference on Robot Learning
+shortname: CoRL
+volume: 87
+year: '2018'
+start: 2018-10-29
+end: 2018-10-31
+published: 2018-10-23
+url: http://proceedings.mlr.press
+location: Z\"urich, Switzerland
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: CoRL-2018
+month: 0
+cycles: false
+bibtex_editor: Billard, Aude and Dragan, Anca and Peters, Jan and Morimoto, Jun
+editor:
+- given: Aude
+  family: Billard
+- given: Anca
+  family: Dragan
+- given: Jan
+  family: Peters
+- given: Jun
+  family: Morimoto
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 2nd Conference on Robot Learning on 29-31 October 2018
+
+  Published as Volume 87 by the Proceedings of Machine Learning Research on 23 October 2018.
+
+  Volume Edited by:
+    Aude Billard
+    Anca Dragan
+    Jan Peters
+    Jun Morimoto
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 29--31 Oct
+baseurl: "/v87"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v87
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: Conference on Robot Learning
+  url: 
+  location: ''
+  dates:
+  - 2018-10-29
+  - 2018-10-30
+  - 2018-10-31
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/neil/mlresearch/v87/corl2018.bib
