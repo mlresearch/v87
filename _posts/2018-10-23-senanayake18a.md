@@ -49,6 +49,10 @@ issued:
   - 10
   - 23
 pdf: http://proceedings.mlr.press/v87/senanayake18a/senanayake18a.pdf
-extras: []
+extras:
+- label: Supplementary video
+  link: https://youtu.be/IirUlJS49Yw
+- label: Source code
+  link: https://github.com/MushroomHunting/autormorphing-kernels
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

@@ -44,6 +44,8 @@ issued:
   - 10
   - 23
 pdf: http://proceedings.mlr.press/v87/laversanne-finot18a/laversanne-finot18a.pdf
-extras: []
+extras:
+- label: Source code
+  link: https://github.com/flowersteam/Curiosity_Driven_Goal_Exploration
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
