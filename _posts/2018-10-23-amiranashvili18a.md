@@ -45,6 +45,10 @@ issued:
   - 10
   - 23
 pdf: http://proceedings.mlr.press/v87/amiranashvili18a/amiranashvili18a.pdf
-extras: []
+extras:
+- label: Supplementary video
+  link: https://youtu.be/YALmehmmu3Q
+- label: Source code
+  link: https://github.com/lmb-freiburg/flow_rl
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
