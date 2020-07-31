@@ -51,6 +51,8 @@ issued:
   - 10
   - 23
 pdf: http://proceedings.mlr.press/v87/stouraitis18a/stouraitis18a.pdf
-extras: []
+extras:
+- label: Supplementary video
+  link: https://public.3.basecamp.com/p/uc8DDU9EDDrgmoU11TGLRkKk
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
