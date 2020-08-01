@@ -7,6 +7,8 @@ start: 2018-10-29
 end: 2018-10-31
 published: 2018-10-23
 url: http://proceedings.mlr.press
+author:
+  name: PMLR
 location: Z\"urich, Switzerland
 layout: proceedings
 series: Proceedings of Machine Learning Research
