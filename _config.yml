@@ -1,5 +1,6 @@
 ---
 booktitle: Proceedings of The 2nd Conference on Robot Learning
+orig_bibfile: "/Users/neil/mlresearch/bibtex.bib"
 shortname: CoRL
 volume: 87
 year: '2018'
@@ -47,6 +48,10 @@ baseurl: "/v87"
 twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
 style: pmlr
 plugins:
 - jekyll-feed
@@ -75,6 +80,5 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
-orig_bibfile: "/Users/neil/mlresearch/bibtex.bib"
 # Site settings
 # Original source:  /Users/neil/mlresearch/bibtex.bib
